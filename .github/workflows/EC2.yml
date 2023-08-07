@@ -1,0 +1,6 @@
+name: Continuous delivery
+
+on:
+  workflow_call:
+
+jobs:
