@@ -32,5 +32,5 @@ jobs:
             export HOST=${{ DB_HOST }}
             export USER=${{ DB_USER }}
             export PASSWORD=${{ DB_PASSWORD }}
-            export DBNAME=${{ DB_DBNAME }}
+            export DBNAME=${{ DB_NAME }}
             export PORT=${{ DB_PORT }}
