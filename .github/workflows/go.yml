@@ -73,5 +73,5 @@ jobs:
 
   Deploy_EKS:
      needs: docker
-     uses: ./.github/workflows/EkS.yml
+     uses: ./.github/workflows/EKS.yml
      secrets: inherit
